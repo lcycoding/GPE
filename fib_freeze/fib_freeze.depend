@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1469693113 source:c:\users\nctu-nol\desktop\gpe\fib_freeze\main.cpp
+	<iostream>
+	<cstdio>
+
